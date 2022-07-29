@@ -1,0 +1,98 @@
+@media all and (max-width:991px) {
+    .counting-headign-area h1 {
+        font-size: 27px;
+        line-height: 35px;
+    }
+
+    .count h1 {
+        font-size: 26px;
+        line-height: 40px;
+    }
+
+    .count p {
+        font-size: 13px;
+        line-height: 29px;
+    }
+
+    .main-counting-section {
+        padding: 10px 0px;
+    }
+
+    .main-register-form-area {
+        padding: 40px 0px;
+        text-align: center;
+    }
+
+    .reg-form-text p {
+        padding: 15px 0px;
+        font-size: 16px;
+        line-height: 30px;
+        color: #F4F4F4;
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    .service-heading p {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .successful-student-heading h1 {
+        font-size: 45px;
+        line-height: 60px;
+        color: #1D1D1D;
+        width: 100%;
+    }
+
+    .successful-student-heading p {
+        font-size: 16px;
+        line-height: 30px;
+        color: #777777;
+        width: 100%;
+    }
+
+    .main-trust-area {
+        display: none;
+    }
+}
+
+@media all and (max-width:767px) {
+    .service-item {
+        flex-direction: column;
+    }
+}
+
+@media all and (max-width:577px) {
+    .feedback-heading h1 {
+        font-size: 29px;
+        line-height: 40px;
+    }
+
+    .successful-student-heading h1 {
+        font-size: 29px;
+        line-height: 40px;
+        color: #1D1D1D;
+        width: 100%;
+    }
+
+    .service-heading h1 {
+        font-size: 29px;
+        line-height: 40px;
+    }
+
+    .slider-item h1 {
+        font-size: 34px;
+        line-height: 40px;
+        color: #FFFFFF;
+    }
+
+    .reg-form-text h1 {
+        font-size: 29px;
+        line-height: 32px;
+    }
+
+    .reg-form-text p {
+        font-size: 16px;
+        width: 100%;
+    }
+}
